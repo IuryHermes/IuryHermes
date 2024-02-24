@@ -1,5 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=00D800&vCenter=true&random=false&width=550&lines=BEM+VINDO+AO+MEU+PERFIL)](https://git.io/typing-svg)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=00D800&vCenter=true&random=false&width=550&lines=BEM+VINDO+AO+MEU+PERFIL)](https://git.io/typing-svg)
+</div>
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=00D800)](https://www.linkedin.com/in/iury-hermes/)
